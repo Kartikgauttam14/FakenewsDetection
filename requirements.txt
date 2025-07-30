@@ -1,3 +1,4 @@
+wordcloud
 beautifulsoup4
 requests
 torch>=1.9.0
