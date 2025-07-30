@@ -18,6 +18,7 @@ import json
 from PIL import Image
 import io
 import base64
+from wordcloud import WordCloud
 
 # Page configuration
 st.set_page_config(
